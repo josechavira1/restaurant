@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009724442070",
+    "project_id": "burgerland-6f7a6",
+    "storage_bucket": "burgerland-6f7a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009724442070:android:ba3842589fe8f7564d5077",
+        "android_client_info": {
+          "package_name": "com.example.restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK_HFzA0RVDqMBtuPylFP6J5g-XG05DzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
